@@ -1,0 +1,37 @@
+
+
+
+
+.row .col-4 .card {
+    width: 90%;
+    }
+    
+    .row1{
+        height: 107px;
+    }
+    
+    
+    .whatsapp{
+        color: rgb(16, 199, 16);
+        position: fixed;
+        left: 12px;
+        top: 607px;
+    
+    }
+    header a{
+        text-decoration: none;
+        color: black;
+    }
+    
+    .p_footer{
+        position: relative;
+        text-align: right;
+    
+    }
+    
+    footer{
+        background-color: hsl(0, 0%, 15%);
+        color: white;
+        height: 80px;
+    }
+    
